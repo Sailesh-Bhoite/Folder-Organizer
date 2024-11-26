@@ -13,3 +13,5 @@ This will create the following folders in that particular folder:
 6. Presentations: which contains files with (.ppt) and (.pptx) extensions.
 7. Videos: which contains files with (.mp4) and (.avi) extensions.
 8. Others: which contains files with other than above extensions.
+
+For demo video follow the link: [Video Link](https://www.linkedin.com/posts/sailesh-bhoite_techminds-techmindmarathon-activity-7264321473874444288-Getl?utm_source=share&utm_medium=member_desktop)
