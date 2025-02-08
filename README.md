@@ -14,4 +14,14 @@ This will create the following folders in that particular folder:
 7. Videos: which contains files with (.mp4) and (.avi) extensions.
 8. Others: which contains files with other than above extensions.
 
+## Tech Stack
+
+**Language:** Python
+
+**Modules used:** Tkinter, os, sys
+
 For demo video follow the link: [Video Link](https://www.linkedin.com/posts/sailesh-bhoite_techminds-techmindmarathon-activity-7264321473874444288-Getl?utm_source=share&utm_medium=member_desktop)
+
+## Authors
+
+- [@Sailesh Bhoite](https://github.com/Sailesh-Bhoite)
